@@ -4,6 +4,7 @@ Given the following multi-message "Dialog", how would you represent this in a pr
 
 ![Sample Dialog](SampleDialog.png "Image of Sample Dialog")
 
+*The teal boxes contain expressions referring to attributes of a User 
 
 # Exercise 2
 
